@@ -7,12 +7,12 @@ A powerful Telegram moderation bot that mutes users based on bio content (like l
 
 ## 🌐 Features
 
-- Auto-mute users who join with links or @usernames in their bio or name
+- Auto users who join with links or @usernames in their bio or name
 - Welcome message with custom buttons
 - Warn & mute system for link spammers
 - Private and group mute notifications
 - Broadcast system (text, image, buttons)
-- Owner commands (restart, stats, mute duration, etc.)
+- Owner commands (restart, stats, duration, etc.)
 - MongoDB-based storage
 - Heroku and VPS ready
 
