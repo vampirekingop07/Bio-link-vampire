@@ -1,4 +1,5 @@
-# 🤖 Bio Mute Bot
+# 🤖
+Bio Mute Bot
 
 A powerful Telegram moderation bot that mutes users based on bio content (like links or @usernames), welcomes members, warns for links in messages, supports customizable mute durations, and even broadcasts messages/images across all users and groups.
 
@@ -42,7 +43,7 @@ sudo apt install ffmpeg python3-pip -y
 pip3 install -r requirements.txt
 
 # Add env variables
-cp .env.example .env  # and fill it manually
+cp .env.example .env # and fill it manually
 
 # Start bot
 python3 -m bot
