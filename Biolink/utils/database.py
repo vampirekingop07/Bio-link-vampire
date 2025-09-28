@@ -34,7 +34,7 @@ def register(app: Client):
             try:
                 await message.delete()
                 warn_msg = await message.reply_text(
-    f"⚠️ {message.from_user.mention}, aapke bio mein link ya username hone ki wajah se aapka message delete kar diya gaya hai."
+    f"⚠️ {message.from_user.mention}, aapke bio mein link ya username hone ki wajah se aapka message delete kar diya gaya hai kirpiya link htake msg kre."
                 )
                 asyncio.create_task(delete_later(warn_msg, 10))
             except Exception as e:
