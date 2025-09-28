@@ -18,7 +18,7 @@ If you need help or updates, check the buttons below 👇"""
         buttons = InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙", url="https://t.me/Candyy_music_robot?startgroup=true")],
-                [InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/III_BADNAM_BABY_lll")],
+                [InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/kriti_bot_update")],
                 [InlineKeyboardButton("˹ ʜєʟᴘ ᴧηᴅ ᴄσϻϻᴧηᴅs ˼", callback_data="help")]
             ]
         )
